@@ -7,8 +7,8 @@
 # ~ docker-compose run -p 8000:8000 -d devops
 
 # Try to access the the host with port 8000
-# http://<hostname>:8000/
-# http://<hostname>:8000/admin
+# http://hostname:8000/
+# http://hostname:8000/admin
 
 # username: testuser
 # password: 1234
