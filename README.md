@@ -14,10 +14,7 @@
 # go to google cloud shell
 # ~ cd devops
 # ~ gcloud config set project [PROJECT_ID]
-# ~ docker login
-# ~ docker pull hjm0520/devops:v1
-# ~ docker pull hjm0520/python :v1
-# ~ docker pull hjm0520/postgres:v1
+# ~ docker-compose build
 # ~ docker-compose run -p 8000:8000 -d devops
 # on the google cloud shell click the web preview change port to 8000
 # The google cloud will provide you a link and to access admin try to use link provided by google could and add /admin at the end
