@@ -10,10 +10,13 @@
 # http://hostname:8000
 # http://hostname:8000/admin
 
+
+
 # To run the devops to google clouds
 # go to google cloud shell
-# ~ cd devops
 # ~ gcloud config set project [PROJECT_ID]
+# ~ git clone https://github.com/henry0520/devops.git
+# ~ cd devops
 # ~ docker-compose build
 # ~ docker-compose run -p 8000:8000 -d devops
 # on the google cloud shell click the web preview change port to 8000
