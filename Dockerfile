@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM hjm0520/python:v1
 ENV PYTHONUNBUFFERED 1
 RUN mkdir /opt/devops
 WORKDIR /opt/devops
