@@ -13,7 +13,7 @@
 
 
 # To run the devops to google clouds
-# go to google cloud shell
+# go to google cloud shell https://console.cloud.google.com/home/dashboard?project=ferrous-store-287902&cloudshell=true
 # ~ gcloud config set project [PROJECT_ID]
 # ~ git clone https://github.com/henry0520/devops.git
 # ~ cd devops
